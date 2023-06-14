@@ -10,4 +10,4 @@ git clone https://github.com/sunita-mamgain/Technical-documentation-page.git
 
 ## check out this project
 
-[Go to Technical documentation page]()
+[Go to Technical documentation page]( https://sunita-mamgain.github.io/Technical-documentation-page/)
